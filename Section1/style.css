@@ -1,0 +1,253 @@
+.header{
+    background-color: rgb(255, 255, 255);
+    height:60px;
+    padding-top: 10px;
+}
+.logo{
+    padding-left: 100px;
+    font-size: 30px;
+}
+.logo p{
+    font-size: 30px;
+    display: inline;
+    color: rgb(255, 187, 0);
+}
+.menu{
+    padding-right: 30px;
+    display: inline;
+    margin-right: 60px;
+    margin-top: 10px;
+    float:right;
+}
+.menu a{
+    display: inline;
+    margin: 20px;
+    font-size: 10px;
+    color: black;
+    text-decoration: none;
+}
+.banner{
+    width: 100%;
+    height: 12pc;
+    background-image: url("ga.jpg");
+    padding: 90px;
+    background-size: cover;
+    font-size: 20px;
+}
+.banner h1{
+    color: white;
+}
+.banner h1 p{
+    color: rgb(255, 196, 0);
+    display: inline;
+}
+.bl{
+    width: 100%;
+    height: 5pc;
+    background-color:black;
+    color: white;
+    text-align: center;
+    padding: 10px;
+}
+.bl h1{
+    padding-top: 15px;
+    margin:0px;
+    font-size: 23px;
+}
+.bl p{
+    font-size: 6px;
+}
+.container {
+    width: 950px;
+    margin: 0 auto;
+}
+.info {
+    width: 100%;
+    height: 1030px;
+    padding: 10px;
+    background: rgb(236, 197, 22);
+}
+.info_a {
+    color: black;
+    text-align: center;
+}
+.info_a h1{
+    padding-top: 30px;
+    margin: 0;
+    font-size: 23px;
+}
+.info_a p{
+    margin: 0;
+    font-size: 15px;
+}
+.block1 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("1.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block1 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block2 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("2.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block2 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block3 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("3.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block3 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block4 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("4.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block4 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block5 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("5.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block5 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block6 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("6.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block6 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block7 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("7.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block7 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block8 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("8.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block8 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+.block9 {
+    width: 250px;
+    background: linear-gradient(rgba(41, 38, 38, 0.5), rgba(41, 38, 38, 0.5)), url("9.jpg");
+    height: 250px;
+    background-size: cover;
+    background-position: center;
+    margin: 25px;
+    float: left;
+    border-radius: 10px;
+    
+}
+.block9 p{
+    text-align: center;
+    margin-top: 105px;
+    color: white;
+    font-size: 25px;
+}
+footer{
+    width: 100%;
+    height: 130px;
+    background: black;
+}
+.ft{
+    text-align: center;
+    color: white;
+    padding: 15px;
+}
+.ft h1{
+    font-size: 23px;
+    margin: 0px;
+}
+.ft p{
+    font-size: 15px;
+    margin: 0px;
+}
